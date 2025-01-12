@@ -26,5 +26,7 @@ https://neon.tech/postgresql/tutorial
 
 <https://www.w3schools.com/postgresql/>
 
+https://www.postgresql.org/docs/current/tutorial.html
+
 
 
