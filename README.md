@@ -16,12 +16,6 @@ A curated [PostgreSQL](https://www.postgresql.org/) software, libraries, tools a
 The latest version of software, and related software, may be
 obtained at <https://www.postgresql.org/download/>  
 
-Documentation about PostgreSQL can be found at  
-https://www.postgresql.org/docs/  
-
-Cloud SQL for PostgreSQL  
-https://cloud.google.com/sql/docs/postgres
-
 **PostgreSQL Tutorial**
 
 https://neon.tech/postgresql/tutorial
@@ -29,6 +23,14 @@ https://neon.tech/postgresql/tutorial
 <https://www.w3schools.com/postgresql/>
 
 https://www.postgresql.org/docs/current/tutorial.html
+
+Documentation about PostgreSQL can be found at  
+https://www.postgresql.org/docs/  
+
+Cloud SQL for PostgreSQL  
+https://cloud.google.com/sql/docs/postgres
+
+
 
 
 
