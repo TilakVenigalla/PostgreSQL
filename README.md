@@ -1,8 +1,10 @@
 PostgreSQL 
 =====================================
-
 PostgreSQL is an advanced and open-source, object-relational database management system
-and is used as a database for many web applications, mobile and analytics applications. 
+which means that it has relational capabilities and an object-oriented design. 
+Using object-oriented features of PostgreSQL, programmers can: Communicate with the database servers using objects in their code. 
+Define complex custom data types and is used as a database for many web applications, mobile and analytics applications. 
+
 It supports both SQL (**relational**) and JSON (**non-relational**)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
