@@ -12,8 +12,9 @@ obtained at <https://www.postgresql.org/download/>
 Documentation about PostgreSQL can be found at  
 https://www.postgresql.org/docs/  
 
-PostgreSQL Tutorial 
+PostgreSQL Tutorial : 
 <https://www.w3schools.com/postgresql/>
 
-Cloud SQL for PostgreSQL  https://cloud.google.com/sql/docs/postgres
+Cloud SQL for PostgreSQL  
+https://cloud.google.com/sql/docs/postgres
 
