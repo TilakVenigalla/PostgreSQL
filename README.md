@@ -24,10 +24,10 @@ https://neon.tech/postgresql/tutorial
 
 https://www.postgresql.org/docs/current/tutorial.html
 
-Documentation about PostgreSQL can be found at  
+**PostgreSQL Documentation**   
 https://www.postgresql.org/docs/  
 
-Cloud SQL for PostgreSQL  
+**Cloud SQL for PostgreSQL**  
 https://cloud.google.com/sql/docs/postgres
 
 
