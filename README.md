@@ -9,5 +9,8 @@ A curated [PostgreSQL](https://www.postgresql.org/) software, libraries, tools a
 The latest version of this software, and related software, may be
 obtained at <https://www.postgresql.org/download/>  
 
-Documentation about PostgreSQL can be found at
-<https://www.postgresql.org/docs/>  
+Documentation about PostgreSQL can be found at  
+https://www.postgresql.org/docs/  
+
+PostgreSQL Tutorial 
+<https://www.w3schools.com/postgresql/>
