@@ -22,7 +22,9 @@ https://cloud.google.com/sql/docs/postgres
 
 **PostgreSQL Tutorial**
 
+https://neon.tech/postgresql/tutorial
+
 <https://www.w3schools.com/postgresql/>
 
-https://neon.tech/postgresql/tutorial
+
 
