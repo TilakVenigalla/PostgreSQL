@@ -21,7 +21,7 @@ Cloud SQL for PostgreSQL
 https://cloud.google.com/sql/docs/postgres
 
 
-PostgreSQL Tutorial : 
+**PostgreSQL Tutorial : **
 
 <https://www.w3schools.com/postgresql/>
 
