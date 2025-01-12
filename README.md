@@ -10,4 +10,4 @@ The latest version of this software, and related software, may be
 obtained at <https://www.postgresql.org/download/>  
 
 Documentation about PostgreSQL can be found at
-<https://www.postgresql.org/docs/devel/>  
+<https://www.postgresql.org/docs/>  
